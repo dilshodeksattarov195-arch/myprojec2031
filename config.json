@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchvetch",
+        "uuid": 19373709,
+        "checksum": "s0ww0ls"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
